@@ -2,7 +2,7 @@ require('dotenv').config();
 const fetch = require("node-fetch");
 
 module.exports = async function (msg, args) {
-    keyword = args.join();
+    let keyword = args.join();
     SendGIF(keyword, msg.channel);
 }
 

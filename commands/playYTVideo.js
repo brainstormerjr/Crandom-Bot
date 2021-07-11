@@ -14,7 +14,7 @@ module.exports = async function (link, channel, voiceChannel) {
     stream.on("end", () => {
         if (queue.length > 0) {
             let link = queue.shift();
-            nowPlaying = titleQueue.shift();
+            common.nowPlaying = titleQueue.shift();
             PlayYTVideo(link, channel);
         } else {
             common.voiceChannelConnection.disconnect();

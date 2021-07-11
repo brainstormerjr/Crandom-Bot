@@ -4,7 +4,7 @@ const ytdl = require("ytdl-core");
 
 module.exports = async function (msg, args) {
     if (msg.member.voice.channel) {
-        link = args[0];
+        let link = args[0];
         QueueLink(link, msg.channel, msg.member.voice.channel);
     } else {
         msg.channel.send('You have to be in a voice channel to use the command queue ;)');
