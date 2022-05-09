@@ -1,21 +1,23 @@
 {
-  "name": "test-bot",
+  "name": "Crandom-bot",
   "version": "1.0.0",
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "github:discordjs/opus",
-    "discord.js": "^12.5.1",
+    "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
     "ffmpeg": "0.0.4",
     "ffmpeg-static": "^4.4.0",
-    "fs": "0.0.1-security",
+    "fs": "^0.0.2",
+    "node-fetch": "^2.6.1",
     "node-opus": "^0.3.3",
+    "opusscript": "0.0.8",
     "ytdl-core": "^4.8.3"
   }
 }

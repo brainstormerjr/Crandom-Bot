@@ -1,37 +1,42 @@
 {
-    "Domination": [
-        ["Press the Attack", "Lethal Tempo", "Fleet Footwork", "Conqueror"],
-        ["Overheal", "Triumph", "Presence of Mind"],
-        ["Legend: Alacrity", "Legend: Tenacity", "Legend: Bloodline"],
-        ["Coup de Grace", "Cut Down", "Last Stand"]
-    ],
-    "Precision": [
-        ["Electrocute", "Predator", "Dark Harvest", "Hail of Blades"],
-        ["Cheap Shot", "Taste of Blood", "Sudden Impact"],
-        ["Zombie Ward", "Ghost Poro", "Eyeball Collection"],
-        ["Ravenous Hunter", "Ingenious Hunter", "Relentless Hunter", "Ultimate Hunter"]
-    ],
-    "Sorcery": [
-        ["Summon Aery", "Arcane Comet", "Phase Rush"],
-        ["Nullifying Orb", "Manaflow Band", "Nimbus Cloak"],
-        ["Transcendence", "Celerity", "Absolute Focus"],
-        ["Scorch", "Waterwalking", "Gathering Storm"]
-    ],
-    "Resolve": [
-        ["Grasp of the Undying", "Aftershock", "Guardian"],
-        ["Demolish", "Font of Life", "Shield Bash"],
-        ["Conditioning", "Second Wind", "Bone Plating"],
-        ["Overgrowth", "Revitalize", "Unflinching"]
-    ],
-    "Inspiration": [
-        ["Glacial Augment", "Unsealed Spellbook", "Prototype: Omnistone"],
-        ["Hexflash Flashtraption", "Magical Footwear", "Perfect Timing"],
-        ["Future's Market", "Minion Dematerializer", "Biscuit Delivery"],
-        ["Cosmic Insight", "Approach Velocity", "Time Warp Tonic"]
-    ],
-    "Shards": [
-        ["Adaptive Damage", "Attack Speed", "Ability Haste"],
-        ["Adaptive Damage", "Armor", "Magic Resistance"],
-        ["Bonus Health", "Armor", "Magic Resistance"]
+  "Domination": [
+    ["Press the Attack", "Lethal Tempo", "Fleet Footwork", "Conqueror"],
+    ["Overheal", "Triumph", "Presence of Mind"],
+    ["Legend: Alacrity", "Legend: Tenacity", "Legend: Bloodline"],
+    ["Coup de Grace", "Cut Down", "Last Stand"]
+  ],
+  "Precision": [
+    ["Electrocute", "Predator", "Dark Harvest", "Hail of Blades"],
+    ["Cheap Shot", "Taste of Blood", "Sudden Impact"],
+    ["Zombie Ward", "Ghost Poro", "Eyeball Collection"],
+    [
+      "Ravenous Hunter",
+      "Ingenious Hunter",
+      "Relentless Hunter",
+      "Ultimate Hunter"
     ]
+  ],
+  "Sorcery": [
+    ["Summon Aery", "Arcane Comet", "Phase Rush"],
+    ["Nullifying Orb", "Manaflow Band", "Nimbus Cloak"],
+    ["Transcendence", "Celerity", "Absolute Focus"],
+    ["Scorch", "Waterwalking", "Gathering Storm"]
+  ],
+  "Resolve": [
+    ["Grasp of the Undying", "Aftershock", "Guardian"],
+    ["Demolish", "Font of Life", "Shield Bash"],
+    ["Conditioning", "Second Wind", "Bone Plating"],
+    ["Overgrowth", "Revitalize", "Unflinching"]
+  ],
+  "Inspiration": [
+    ["Glacial Augment", "Unsealed Spellbook", "First Strike"],
+    ["Hexflash Flashtraption", "Magical Footwear", "Perfect Timing"],
+    ["Future's Market", "Minion Dematerializer", "Biscuit Delivery"],
+    ["Cosmic Insight", "Approach Velocity", "Time Warp Tonic"]
+  ],
+  "Shards": [
+    ["Adaptive Damage", "Attack Speed", "Ability Haste"],
+    ["Adaptive Damage", "Armor", "Magic Resistance"],
+    ["Bonus Health", "Armor", "Magic Resistance"]
+  ]
 }
